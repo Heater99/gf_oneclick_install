@@ -6,7 +6,7 @@ This script allows you to create an Grand Fantasia server based on the releases 
 ## How to use?
 The script is intended for use on debian 11. The command to download and run this script is the following:
 ```shell
-wget --no-check-certificate -nv "https://raw.githubusercontent.com/Heater99/gf_oneclick_install/main/gfinstall.sh" -O "gfinstall.sh"; chmod 777 "gfinstall.sh"; ./gfinstall.sh
+wget --no-check-certificate -nv "https://raw.githubusercontent.com/heater99/gf_oneclick_install/master/gfinstall.sh" -O "gfinstall.sh"; chmod 777 "gfinstall.sh"; ./gfinstall.sh
 ```
 
 ## Credits
